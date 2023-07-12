@@ -68,9 +68,9 @@ namespace WebApplication2.Controllers
         }
        //links:
        //react
-       https://gist.github.com/roshanlabh/eac12ebf9fa76880699256aefcb8d955
+      // https://gist.github.com/roshanlabh/eac12ebf9fa76880699256aefcb8d955
        //sql:
-       https://github.com/Hardanish-Singh/CoderByte-Challenges-Solutions/blob/master/SQL/sql_vendor_join.sql
+      // https://github.com/Hardanish-Singh/CoderByte-Challenges-Solutions/blob/master/SQL/sql_vendor_join.sql
       //https://github.com/Hardanish-Singh/CoderByte-Challenges-Solutions/blob/master/SQL/sql_member_count.sql
       //csharp:
       // https://coderbyte.com/solution/Tree%20Constructor
